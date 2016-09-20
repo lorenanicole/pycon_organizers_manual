@@ -11,16 +11,29 @@ This manual is meant to be collection point, unifying the work of previous proje
 See something missing? Make a [pull request](https://github.com/lorenanicole/pycon_organizers_manual/pulls) or [add an issue](https://github.com/lorenanicole/pycon_organizers_manual/issues)!
 
 [How You Can Contribute to this Manual](docs/how_to_contribute.md)
+
 [Fundraising](docs/fundraising.md)
+
 [Financial Aid](docs/financial_aid.md)
+
 [Developing a CFP](docs/developing_a_cfp.md)
+
 [Speaker Selection](docs/speaker_selection.md)
+
 [Code of Conduct](docs/code_of_conduct.md)
+
 [Selecting a Venue](docs/selecting_a_venue.md)
+
 [Marketing](docs/marketing.md)
+
 [Regional Specific Information for Events](docs/regional_specific_information.md)
+
 [Committees](docs/committees.md)
+
 [Volunteers](docs/volunteers.md)
+
 [Accommodation](docs/accommodation.md)
+
 [Recording Talks and General AV Support](docs/recording_talks.md)
+
 [Etc](docs/etc.md)
