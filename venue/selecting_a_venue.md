@@ -2,13 +2,15 @@
 
 ####Location
 
-TBD - how to select, considering number of attendees
+TODO: how to select, considering number of attendees
 
 ####Accessibility
 
+TODO:
+
 #####Internet
 
-#####Food
+TODO: 
 
 ###Additional Resources
 

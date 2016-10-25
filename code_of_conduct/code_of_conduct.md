@@ -19,7 +19,7 @@ Examples of other Code of Conducts:
 
 ####Does the event need more than the basic Python Code of Conduct?
 
-TBD
+TODO:
 
 ####Reporting Procedures
 

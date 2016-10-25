@@ -1,13 +1,9 @@
 ###Speaker Selection
 
-####Speaker Selection Committee
-
-TBD
-
 ####Number of Speakers to Select
 
-TBD
+TODO:
 
 ####Timeline for Selecting Speakers
 
-TBD
+TODO:

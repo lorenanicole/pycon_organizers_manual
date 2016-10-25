@@ -6,11 +6,7 @@ You have several things to consider when writing a CFP including how you make an
 
 ####Types of Talks Accepted
 
-TBD
-
-####Keynotes
-
-TBD
+TODO:
 
 ####Offering Resources for Applicants on Writing a Proposal
 

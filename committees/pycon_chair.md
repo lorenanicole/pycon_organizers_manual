@@ -1,0 +1,3 @@
+####PyCon Chair Responsibilities
+
+TODO:
