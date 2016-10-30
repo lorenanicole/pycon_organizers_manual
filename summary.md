@@ -1,39 +1,28 @@
-###Summary
+#Summary
 
-The PyCon Organizers Manual, an effort started by the 2016 - 2017 Python Software Foundation Board of Directors, is meant to be an evolving document containing information about how to get started organizing a PyCon or other Python conference.
+* [How You Can Contribute to this Manual](contributing/how_to_contribute.md)
 
-####Notes on Why a PyCon Organizers Manual and How to Read 
+* [Fundraising](fundraising/how_to_fundraise.md)
 
-This manual is meant to be collection point, unifying the work of previous projects and integrating voices of different segments of the Python community, and hopefully will become a common ground for Python organizers. That being said, this manual is also a work in progress. Anyone is welcome to contribute and offer feedback. If you would like to participate, please read the [how you can contribute](docs/how_to_contribute.md) chapter to get started. 
+* [Financial Aid](financial_aid/financial_aid.md)
 
-####Table of Contents
+* [Developing a CFP](cfp/developing_a_cfp.md)
 
-See something missing? Make a [pull request](https://github.com/lorenanicole/pycon_organizers_manual/pulls) or [add an issue](https://github.com/lorenanicole/pycon_organizers_manual/issues)!
+* [Speaker Selection](speakers/speaker_selection.md)
 
-[How You Can Contribute to this Manual](docs/how_to_contribute.md)
+* [Code of Conduct](code_of_conduct/code_of_conduct.md)
 
-[Fundraising](docs/fundraising.md)
+* [Selecting a Venue](venue/selecting_a_venue.md)
 
-[Financial Aid](docs/financial_aid.md)
+* [Marketing](marketing/marketing.md)
 
-[Developing a CFP](docs/developing_a_cfp.md)
+* [Regional Specific Information for Events](regional_information/regional_specific_information.md)
 
-[Speaker Selection](docs/speaker_selection.md)
+* [Committees](committees/overview.md)
 
-[Code of Conduct](docs/code_of_conduct.md)
+* [Volunteers](volunteers/recruitment.md)
 
-[Selecting a Venue](docs/selecting_a_venue.md)
+* [Accommodation](accommodation/accommodation.md)
 
-[Marketing](docs/marketing.md)
+* [Recording Talks and General AV Support](recording/recording_talks.md)
 
-[Regional Specific Information for Events](docs/regional_specific_information.md)
-
-[Committees](docs/committees.md)
-
-[Volunteers](docs/volunteers.md)
-
-[Accommodation](docs/accommodation.md)
-
-[Recording Talks and General AV Support](docs/recording_talks.md)
-
-[Etc](docs/etc.md)
