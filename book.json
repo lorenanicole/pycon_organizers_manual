@@ -1,8 +1,8 @@
 {
-	"root": "pycon_organizers_manual",
-	"structure": { 
-    	"summary": "summary.md" 
+	"root": "",
+	"structure": {
+    	"summary": "summary.md"
   },
   	"title": "PyCon Organizers Manual",
-  	"description": "An open source PyCon Organizers Manual with information for helping you start organizing your first PyCon." 
+  	"description": "An open source PyCon Organizers Manual with information for helping you start organizing your first PyCon."
 }
