@@ -1,39 +1,40 @@
-###Summary
+# Summary
 
-The PyCon Organizers Manual, an effort started by the 2016 - 2017 Python Software Foundation Board of Directors, is meant to be an evolving document containing information about how to get started organizing a PyCon or other Python conference.
+## Notes on Why a PyCon Organizers Manual and How to Read
 
-####Notes on Why a PyCon Organizers Manual and How to Read 
+Organizing a PyCon is no easy feat. It requires a lot of time and effort. This project aims to continue on the work of previous projects by creating an easy to read, easy to contribute to open source PyCon Manual.
 
-This manual is meant to be collection point, unifying the work of previous projects and integrating voices of different segments of the Python community, and hopefully will become a common ground for Python organizers. That being said, this manual is also a work in progress. Anyone is welcome to contribute and offer feedback. If you would like to participate, please read the [how you can contribute](docs/how_to_contribute.md) chapter to get started. 
+Anyone is welcome to contribute and offer feedback. If you would like to participate, please read the [how you can contribute](https://github.com/lorenanicole/pycon_organizers_manual/blob/master/contributing/how_to_contribute.md) chapter to get started. 
 
-####Table of Contents
+## Table of Contents
 
-See something missing? Make a [pull request](https://github.com/lorenanicole/pycon_organizers_manual/pulls) or [add an issue](https://github.com/lorenanicole/pycon_organizers_manual/issues)!
-
-[How You Can Contribute to this Manual](docs/how_to_contribute.md)
-
-[Fundraising](docs/fundraising.md)
-
-[Financial Aid](docs/financial_aid.md)
-
-[Developing a CFP](docs/developing_a_cfp.md)
-
-[Speaker Selection](docs/speaker_selection.md)
-
-[Code of Conduct](docs/code_of_conduct.md)
-
-[Selecting a Venue](docs/selecting_a_venue.md)
-
-[Marketing](docs/marketing.md)
-
-[Regional Specific Information for Events](docs/regional_specific_information.md)
-
-[Committees](docs/committees.md)
-
-[Volunteers](docs/volunteers.md)
-
-[Accommodation](docs/accommodation.md)
-
-[Recording Talks and General AV Support](docs/recording_talks.md)
-
-[Etc](docs/etc.md)
+* [Introduction](README.md)
+* [How to Contribute](contributing/how_to_contribute.md)
+* [Example Contribution](contributing/example.md)
+* [Code of Conduct](code_of_conduct/code_of_conduct.md)
+* [Code of Conduct Reporting Procedures](code_of_conduct/reporting_procedures.md)
+* [Comittees](committees/overview.md)
+* [Comittees Recruitment](committees/commitee_recruitment.md)
+* [Comittees: PyCon Chair](committees/pycon_chair.md)
+* [Comittees: Speaker Selection](committees/speaker_selection_commitee.md)
+* [Financial Aid](financial_aid/financial_aid.md)
+* [Financial Aid](financial_aid/application.md)
+* [Financial Aid](financial_aid/types_of_aid.md)
+* [Marketing](marketing/marketing.md)
+* [Recording Talks](marketing/recording_talks.md)
+* [Recruiting Volunteers](recruitment/volunteers.md)
+* [Regional Information: Africa](regional_information/africa.md)
+* [Regional Information: Asia](regional_information/asia.md)
+* [Regional Information: Australia](regional_information/australia.md)
+* [Regional Information: Europe](regional_information/europe.md)
+* [Regional Information: North America](regional_information/north_america.md)
+* [Regional Information: South America](regional_information/south_america.md)
+* [Developing a CFP](speakers/developing_a_cfp.md)
+* [Finding Keynotes](speakers/keynotes.md)
+* [Speaker Selection](speakers/speaker_selection.md)
+* [Selecting a Venue](venue/selecting_a_venue.md)
+* [Offering Childcare](venue/childcare.md)
+* [Dietary Considerations](venue/dietary_considerations.md)
+* [Religious Considerations](venue/religious_considerations.md)
+* [Volunteers: Day of Support](volunteers/day_of_support.md)
+* [Volunteers: Recruitment](volunteers/recruitment.md)
