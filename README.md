@@ -1,10 +1,10 @@
 # PyCon Organizers Manual
 
-###Introduction
+### Introduction
 
 The PyCon Organizers Manual, an effort started by the 2016 - 2017 Python Software Foundation Board of Directors, is an evolving document containing information about how to get started organizing a PyCon or another Python conference.
 
-####Why do we need PyCon Organizers Manual?
+#### Why do we need PyCon Organizers Manual?
 
 Organizing a PyCon is no easy feat. It requires a lot of time and effort. This project aims to continue on the work of previous projects by creating an easy to read, easy to contribute to open source PyCon Manual.
 
